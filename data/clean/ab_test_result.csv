@@ -1,0 +1,12 @@
+metric,value
+control_customers,20583
+test_customers,20593
+control_conversions,2332
+test_conversions,2307
+control_conversion_rate,0.11329738133411067
+test_conversion_rate,0.11202835915116788
+absolute_lift,-0.0012690221829427945
+relative_lift,-0.011200807715056407
+z_stat,-0.40721785252248627
+p_value,0.683847990702893
+recommendation,No statistically significant difference. Continue testing or redesign the experiment.

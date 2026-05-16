@@ -1,0 +1,5 @@
+metric,value
+duplicate_rows_removed,12.0
+final_rows,41176.0
+rows_with_unknown_values,10698.0
+overall_conversion_rate,0.11266271614532737
