@@ -1,4 +1,4 @@
-# AI-Assisted BFSI Campaign Analytics Project
+# BFSI Campaign Analytics Project
 
 ## Customer Conversion, A/B Testing, Financial Performance & Lead Scoring
 
